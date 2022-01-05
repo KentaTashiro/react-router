@@ -4,7 +4,7 @@ import { Page1DetailB } from "../Page1DetailB";
 
 export const page1Routes = [
   {
-    path: "",
+    path: "/",
     exact: true,
     children: <Page1 />
   },
